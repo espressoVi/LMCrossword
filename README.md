@@ -20,7 +20,8 @@ If you find any material from this repository helpful, please cite our paper.
 }
 
 ```
-[!NOTE] Update citation after proceedings.
+> [!NOTE] 
+> Update citation after proceedings are published.
 
 ## Usage.
 
