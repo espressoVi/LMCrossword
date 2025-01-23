@@ -1,0 +1,28 @@
+name = "SweepClip"
+
+sep = "_"
+dim = 15
+
+[files]
+test = "./data/test.json"
+support = "./data/support.json"
+
+[prompts]
+system = "You are an expert crossword solver. Given a clue please provide the best possible answer succinctly. Do not produce extra text.\nThe number of characters in the answer is given in brackets and must be strictly adhered to. e.g. Clue: Daily update (4)// means the answer should have 4 characters."
+
+[model]
+max_new = 10
+temperature = 0.5
+seq_num = 1
+few_shot = 5
+
+[gpt4]
+name = "gpt-4-turbo"
+input_cost = 10
+output_cost = 30
+budget = 0.5
+
+[llama3]
+path = "unset"
+budget = 600
+template = "{{ '<|begin_of_text|>' }}{% for message in messages %}{% if message['role'] == 'system' %}{{ message['content'] }}{{ '\n' }}{% endif %}{% if message['role'] == 'user' %}{{ message['content'] }}{% endif %}{% if not loop.last %}{{ '\n'  }}{% endif %}{% endfor %}"

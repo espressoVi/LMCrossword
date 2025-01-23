@@ -1,0 +1,32 @@
+name = "Inference"
+
+[llm]
+phi3_3Bi = "../LLM/phi3"
+mistral_7Bi = "../LLM/mistral_instruct"
+llama3_8Bi = "../LLM/llama3_8B_instruct"
+mixtral = "../LLM/mixtral"
+llama2_70B = "../LLM/llama2_70B"
+llama3_70B = "../LLM/llama3_70B"
+gpt_3 = "gpt-3.5-turbo"
+gpt_4t = "gpt-4-turbo"
+claude = "claude-3-sonnet-20240229"
+
+[gen_config]
+max_new = 10
+temperature = 0.5
+seq_num = 1
+
+[prompt]
+system = "You are an expert crossword solver. Given a clue please provide the best possible answer succinctly. Do not produce extra text.\nThe number of characters in the answer is given in brackets and must be strictly adhered to. e.g. Clue: Daily update (4)// means the answer should have 4 characters."
+counting = "You are an expert at finding lengths of words. Given a word please provide the length succinctly. Do not produce any extra text barring the number indicating the length of the word."
+subtoken = "You are an expert at character manipulation. Given a word please decompose it into its constitutent characters. Do not produce any extra text barring the space seperated letters making the Word."
+cot_system = "You are an expert crossword solver. Given a clue please provide the best possible answer after thinking step by step."
+cot = "\n\nLet's think step by step.\nTypically a cryptic crossword has synonyms and wordplay indicators.\n"
+
+[templates]
+llama2_70B = "{{ '<s>' }}{% for message in messages %}{% if message['role'] == 'system' %}{{ message['content'] }}{{ '\n\n' }}{% endif %}{% if message['role'] == 'user' %}{{ message['content'] }}{% endif %}{% if not loop.last %}{{ '\n'  }}{% endif %}{% endfor %}"
+llama3_70B = "{{ '<|begin_of_text|>' }}{% for message in messages %}{% if message['role'] == 'system' %}{{ message['content'] }}{{ '\n' }}{% endif %}{% if message['role'] == 'user' %}{{ message['content'] }}{% endif %}{% if not loop.last %}{{ '\n'  }}{% endif %}{% endfor %}"
+llama3_8Bi = "{{ '<|begin_of_text|>' }}{% for message in messages %}{% if message['role'] == 'system' %}{{ '<|start_header_id|>system<|end_header_id|>\n\n' }}{{ message['content'] }}{{ '<|eot_id|>' }}{% endif %}{% if message['role'] == 'user' %}{{ '<|start_header_id|>user<|end_header_id|>\n\n' }}{{ message['content'] }}{{ '<|eot_id|>' }}{% endif %}{% if not loop.last %}{{ '\n'  }}{% endif %}{% endfor %}{{ '<start_header_id|>assistant<|end_header_id|>' }}"
+mistral_7Bi = "{{ '<s>' }}{% for message in messages %}{% if message['role'] == 'system' %}{{ '[INST] ' }}{{ message['content'] }}{% endif %}{% if message['role'] == 'user' %}{{ message['content'] }}{% endif %}{% if not loop.last %}{{ '\n'  }}{% endif %}{% endfor %}{{ '[/INST]' }}"
+mixtral = "{{ '<s>' }}{% for message in messages %}{% if message['role'] == 'system' %}{{ message['content'] }}{{ '\n' }}{% endif %}{% if message['role'] == 'user' %}{{ message['content'] }}{% endif %}{% if not loop.last %}{{ '\n'  }}{% endif %}{% endfor %}"
+phi3_3Bi = "{{ '<|user|>' }}{% for message in messages %}{% if message['role'] == 'system' %}{{ message['content'] }}{{ '\n' }}{% endif %}{% if message['role'] == 'user' %}{{ message['content'] }}{% endif %}{% if not loop.last %}{{ '\n'  }}{% endif %}{% endfor %}{{ '<|end|>\n<|assistant|>' }}"

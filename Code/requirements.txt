@@ -1,0 +1,10 @@
+torch
+toml
+transformers
+accelerate
+bitsandbytes
+trl
+peft
+tiktoken
+openai
+anthropic

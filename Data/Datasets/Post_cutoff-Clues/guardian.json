@@ -1,0 +1,802 @@
+{
+    "0": {
+        "clue": "Old TV station introducing original character of Phoebe to Friends",
+        "answer": "allypally"
+    },
+    "1": {
+        "clue": "Knocked about and flayed, most feverish fight",
+        "answer": "setto"
+    },
+    "2": {
+        "clue": "Weed guzzling vodka initially, then claret, hung over",
+        "answer": "hovered"
+    },
+    "3": {
+        "clue": "A meat cut for seafood",
+        "answer": "abalone"
+    },
+    "4": {
+        "clue": "Stone in middle knocked out of game",
+        "answer": "ruby"
+    },
+    "5": {
+        "clue": "Some idle chat about nation in western Europe, leader bringing democracy to country further east",
+        "answer": "lechwalesa"
+    },
+    "6": {
+        "clue": "Figure detailing the pain of spelling?",
+        "answer": "hexagon"
+    },
+    "7": {
+        "clue": "Essentially vocal void, national anthem",
+        "answer": "ocanada"
+    },
+    "8": {
+        "clue": "Prison meal, awfully cold",
+        "answer": "impersonal"
+    },
+    "9": {
+        "clue": "Ground where building of a hotel interrupted by flock of geese?",
+        "answer": "theoval"
+    },
+    "10": {
+        "clue": "Beethoven\u2019s Fourth eclipsed by the one before \u2013 exciting stuff?",
+        "answer": "erotica"
+    },
+    "11": {
+        "clue": "Red flag appropriated by Centre, Labour heading to the right?",
+        "answer": "alert"
+    },
+    "12": {
+        "clue": "Really a lagoon needs emptying out \u2013 99%?",
+        "answer": "nearlyall"
+    },
+    "13": {
+        "clue": "Scrooge\u2019s nemesis, perhaps, from Thatcherism\u2019s far right? No!",
+        "answer": "fatherchristmas"
+    },
+    "14": {
+        "clue": "Where radioactive material handled, zero fed to British beef?",
+        "answer": "glovebox"
+    },
+    "15": {
+        "clue": "Fifty during shift working for club",
+        "answer": "bludgeon"
+    },
+    "16": {
+        "clue": "Why parking has blocked English city back road, say",
+        "answer": "bypath"
+    },
+    "17": {
+        "clue": "Capital wretched under leader in Sunak, a country upset about that",
+        "answer": "islamabad"
+    },
+    "18": {
+        "clue": "Content leaving skirt and dress, flasher?",
+        "answer": "strobe"
+    },
+    "19": {
+        "clue": "A warren circled by bears and bull, OMG!",
+        "answer": "totesamazeballs"
+    },
+    "20": {
+        "clue": "Needle in crypt cut through stone",
+        "answer": "aggravate"
+    },
+    "21": {
+        "clue": "Headless shape, disembodied woman often asked in for test",
+        "answer": "oralexam"
+    },
+    "22": {
+        "clue": "Singular inequity ultimately in redistribution of capital",
+        "answer": "atypical"
+    },
+    "23": {
+        "clue": "Policeman, stripper",
+        "answer": "peeler"
+    },
+    "24": {
+        "clue": "Something brewing perhaps in Licence to Kill epic",
+        "answer": "oolong"
+    },
+    "25": {
+        "clue": "Very merry marine",
+        "answer": "jolly"
+    },
+    "26": {
+        "clue": "Failed to meet Rose",
+        "answer": "stoodup"
+    },
+    "27": {
+        "clue": "Leaves to support one piece of software",
+        "answer": "browser"
+    },
+    "28": {
+        "clue": "Wet day, not a minute earlier",
+        "answer": "weedy"
+    },
+    "29": {
+        "clue": "Eel one\u2019s holding first of electric collection",
+        "answer": "congeries"
+    },
+    "30": {
+        "clue": "Criminal\u2019s weapo?",
+        "answer": "sawnoffshotgun"
+    },
+    "31": {
+        "clue": "Boat you heard in America",
+        "answer": "yawl"
+    },
+    "32": {
+        "clue": "In well-known study be surprised date\u2019s missing on back",
+        "answer": "renowned"
+    },
+    "33": {
+        "clue": "I don\u2019t remember cinema as free",
+        "answer": "amnesiac"
+    },
+    "34": {
+        "clue": "Support power source, not initially atomic",
+        "answer": "stem"
+    },
+    "35": {
+        "clue": "As umpire, do nothing to support bowler?",
+        "answer": "notliftafinger"
+    },
+    "36": {
+        "clue": "Return for pardon",
+        "answer": "comeagain"
+    },
+    "37": {
+        "clue": "For us two farewells, not one",
+        "answer": "adeux"
+    },
+    "38": {
+        "clue": "Left Wales, mad scene at first, like the Wild West",
+        "answer": "lawless"
+    },
+    "39": {
+        "clue": "Daughter after fluttering eyelid stopped resisting",
+        "answer": "yielded"
+    },
+    "40": {
+        "clue": "Stitched up by random directions",
+        "answer": "sewn"
+    },
+    "41": {
+        "clue": "No women want me to change nursery rhyme",
+        "answer": "onemanwenttomow"
+    },
+    "42": {
+        "clue": "Failing to save river, lost for words",
+        "answer": "drying"
+    },
+    "43": {
+        "clue": "Calm breaking fast, I start to feed",
+        "answer": "pacify"
+    },
+    "44": {
+        "clue": "Rail stoppage I back, but not 100%",
+        "answer": "banister"
+    },
+    "45": {
+        "clue": "In love, Joanne and Eddie raised occasionally holy anthem",
+        "answer": "odetojoy"
+    },
+    "46": {
+        "clue": "Taking principal role in musical, bearing with malingering",
+        "answer": "swingingthelead"
+    },
+    "47": {
+        "clue": "Implied quietly crazy problem in-house",
+        "answer": "risingdamp"
+    },
+    "48": {
+        "clue": "Oppressive time in command, delving into your record",
+        "answer": "tyrannical"
+    },
+    "49": {
+        "clue": "What may have poisoned me mad doctor\u2019s to suck out",
+        "answer": "aspirate"
+    },
+    "50": {
+        "clue": "Aliens from star one man shot",
+        "answer": "martians"
+    },
+    "51": {
+        "clue": "I whizz round town now and then? I wish!",
+        "answer": "ifonly"
+    },
+    "52": {
+        "clue": "Close to Manchester, take the air",
+        "answer": "inhale"
+    },
+    "53": {
+        "clue": "Article Times editor ruthlessly cut",
+        "answer": "axed"
+    },
+    "54": {
+        "clue": "Yogi breaks cane when spanked \u2013 it\u2019s deviancy",
+        "answer": "aberrance"
+    },
+    "55": {
+        "clue": "Backstreet in Paris? Within it, the French and Swiss whizz",
+        "answer": "euler"
+    },
+    "56": {
+        "clue": "Game to don legwear this person\u2019s possibly returned for a fee",
+        "answer": "hostage"
+    },
+    "57": {
+        "clue": "Basic textbooks right to be adopted by 3, 5 and 13?",
+        "answer": "primers"
+    },
+    "58": {
+        "clue": "Relation of audiobook version of Zola novel?",
+        "answer": "nanna"
+    },
+    "59": {
+        "clue": "Refused or declined to smuggle dope from the east",
+        "answer": "abnegated"
+    },
+    "60": {
+        "clue": "Clumsily lost Ed Sheeran CD, showing no emotion",
+        "answer": "coldheartedness"
+    },
+    "61": {
+        "clue": "London venue millennial\u2019s outside, with Dua Lipa playing",
+        "answer": "palladium"
+    },
+    "62": {
+        "clue": "Pick up \u00a31,000 tip",
+        "answer": "glean"
+    },
+    "63": {
+        "clue": "This prevents experiments with Spooner\u2019s ideal complexion",
+        "answer": "testban"
+    },
+    "64": {
+        "clue": "Singer of a lot of rock, as well as Gershwin",
+        "answer": "shakira"
+    },
+    "65": {
+        "clue": "Maybe Guardian compiler welcomed by Lady Gaga",
+        "answer": "daily"
+    },
+    "66": {
+        "clue": "Injured hip? Need package of rare drug",
+        "answer": "ephedrine"
+    },
+    "67": {
+        "clue": "In the main, one may use this item, roughly cutting bread",
+        "answer": "bathingcap"
+    },
+    "68": {
+        "clue": "Singer of song inspiring an incredible energy",
+        "answer": "grande"
+    },
+    "69": {
+        "clue": "What\u2019s inhaled by queen \u2013 king\u2019s rolling a joint",
+        "answer": "knee"
+    },
+    "70": {
+        "clue": "Observer getting excited, tweeting French word that comes up",
+        "answer": "peepingtom"
+    },
+    "71": {
+        "clue": "Get ticked off like a barrister or a judge?",
+        "answer": "bewigged"
+    },
+    "72": {
+        "clue": "Harry Styles, foxier than everyone else",
+        "answer": "slyest"
+    },
+    "73": {
+        "clue": "Flipping painful love for Oedipus",
+        "answer": "eros"
+    },
+    "74": {
+        "clue": "Worked out base 3 in Asian location",
+        "answer": "arabiansea"
+    },
+    "75": {
+        "clue": "Uninterested in big news for the Spencers in 1981",
+        "answer": "disengaged"
+    },
+    "76": {
+        "clue": "Rash son holds former pupil up, and senior ones",
+        "answer": "headboys"
+    },
+    "77": {
+        "clue": "Shunning company using computers, I see, after trifling returns",
+        "answer": "eremitic"
+    },
+    "78": {
+        "clue": "Female\u2019s left reeling as life\u2019s a bitch in Hollywood",
+        "answer": "lassie"
+    },
+    "79": {
+        "clue": "Barber\u2019s poignant adagio band played finally",
+        "answer": "todo"
+    },
+    "80": {
+        "clue": "Note banks periodically loth to give a bit of capital",
+        "answer": "soho"
+    },
+    "81": {
+        "clue": "Being green will involve experiencing some dampness there",
+        "answer": "behindtheears"
+    },
+    "82": {
+        "clue": "Lord gets a treatment from experienced performer",
+        "answer": "oldstager"
+    },
+    "83": {
+        "clue": "Whip is extremely keen \u2013 when available",
+        "answer": "knout"
+    },
+    "84": {
+        "clue": "Host project launch",
+        "answer": "throw"
+    },
+    "85": {
+        "clue": "Plant which could discharge boron to cause intoxication",
+        "answer": "euphorbia"
+    },
+    "86": {
+        "clue": "Casual type of relationship old queen has available",
+        "answer": "onoffer"
+    },
+    "87": {
+        "clue": "Kick around family that\u2019s failing",
+        "answer": "tanking"
+    },
+    "88": {
+        "clue": "Shoot short camp routine",
+        "answer": "tendrill"
+    },
+    "89": {
+        "clue": "Disagreement voiced on the way down",
+        "answer": "dissent"
+    },
+    "90": {
+        "clue": "Tackle defender \u2013 it will avoid embarrassment",
+        "answer": "facesaver"
+    },
+    "91": {
+        "clue": "Only some of Mughal alphabet is permitted in Islam",
+        "answer": "halal"
+    },
+    "92": {
+        "clue": "Very good case for one in Scotland being competitive",
+        "answer": "vying"
+    },
+    "93": {
+        "clue": "Strike spoils travelling around in hills",
+        "answer": "downtools"
+    },
+    "94": {
+        "clue": "Bizarre BBC rant sealed extra coverage",
+        "answer": "beltandbraces"
+    },
+    "95": {
+        "clue": "Duck low to get cover",
+        "answer": "eiderdown"
+    },
+    "96": {
+        "clue": "Enthusiastic over wife coming along with you",
+        "answer": "intow"
+    },
+    "97": {
+        "clue": "Setter perhaps has seven they say for each of yours",
+        "answer": "dogyear"
+    },
+    "98": {
+        "clue": "Barely able to put together complex set",
+        "answer": "hardput"
+    },
+    "99": {
+        "clue": "Should Ken sabotage these hunters?",
+        "answer": "elkhounds"
+    },
+    "100": {
+        "clue": "Introducing really healthy organic meals benefits figure",
+        "answer": "rhomb"
+    },
+    "101": {
+        "clue": "It\u2019s used for shooting horse with record speed",
+        "answer": "coltfortyfive"
+    },
+    "102": {
+        "clue": "Opposition to unreliable poor getting a decent hand",
+        "answer": "straightflush"
+    },
+    "103": {
+        "clue": "Anticipation of battle to acquire minerals",
+        "answer": "foresight"
+    },
+    "104": {
+        "clue": "I trade in perfect place \u2026",
+        "answer": "idealhome"
+    },
+    "105": {
+        "clue": "\u2026 that\u2019s occupied, and looking well used",
+        "answer": "livedin"
+    },
+    "106": {
+        "clue": "Engineers break word, abandoning alternative for dodgy sites",
+        "answer": "darkweb"
+    },
+    "107": {
+        "clue": "Country church sits on return of priest",
+        "answer": "chile"
+    },
+    "108": {
+        "clue": "Funny reaction about origin of tantric yoga format",
+        "answer": "hatha"
+    },
+    "109": {
+        "clue": "Film company boss and satellite",
+        "answer": "studio"
+    },
+    "110": {
+        "clue": "Controversial type of European film",
+        "answer": "polemist"
+    },
+    "111": {
+        "clue": "Activist gets rougher when going back inside",
+        "answer": "crusader"
+    },
+    "112": {
+        "clue": "Relative backing of measure that\u2019s a relief",
+        "answer": "nephew"
+    },
+    "113": {
+        "clue": "Being corrupt, I twice try to conceal soldier\u2019s malpractice",
+        "answer": "irregularity"
+    },
+    "114": {
+        "clue": "Singer engaged in nepotism",
+        "answer": "otis"
+    },
+    "115": {
+        "clue": "Top\u2019s come off instrument? Then adaption needed for musical entertainment",
+        "answer": "iolanthe"
+    },
+    "116": {
+        "clue": "Sly son, big and single",
+        "answer": "stallone"
+    },
+    "117": {
+        "clue": "Never managed to turn at end of runway",
+        "answer": "nary"
+    },
+    "118": {
+        "clue": "Mosaic construction showing satellites on move",
+        "answer": "tessellation"
+    },
+    "119": {
+        "clue": "Traditionalist, one of a number on the board?",
+        "answer": "square"
+    },
+    "120": {
+        "clue": "Fiesta, in body terms holds 4",
+        "answer": "carnival"
+    },
+    "121": {
+        "clue": "Abandon craft \u2013 it\u2019s turning about!",
+        "answer": "jettison"
+    },
+    "122": {
+        "clue": "Boudicca-style accessory chest moved around yard",
+        "answer": "scythe"
+    },
+    "123": {
+        "clue": "Name after Salt Lake",
+        "answer": "tarn"
+    },
+    "124": {
+        "clue": "Is second to wear wretched sack",
+        "answer": "dismissal"
+    },
+    "125": {
+        "clue": "Dead city once covered by rock and dirt",
+        "answer": "ordure"
+    },
+    "126": {
+        "clue": "Fast-moving hunter\u2019s power rifle range, once set",
+        "answer": "peregrinefalcon"
+    },
+    "127": {
+        "clue": "Daffodil advanced by actor James?",
+        "answer": "lenttlilly"
+    },
+    "128": {
+        "clue": "Gloomy sort of cleaner, about to retire",
+        "answer": "moper"
+    },
+    "129": {
+        "clue": "Top Labour and increasingly rattled Tory leaders keeping quiet",
+        "answer": "sweatshirt"
+    },
+    "130": {
+        "clue": "Like David oddly equates US with Turkey\u2019s capital?",
+        "answer": "statuesque"
+    },
+    "131": {
+        "clue": "Nothing\u2019s achieved by being dominated by foreign dissent",
+        "answer": "nonentity"
+    },
+    "132": {
+        "clue": "Unfeeling music genre? Not so much",
+        "answer": "soulless"
+    },
+    "133": {
+        "clue": "Knight, despicable type, turned back river",
+        "answer": "tigris"
+    },
+    "134": {
+        "clue": "Hardly satisfying read, Times leader",
+        "answer": "scant"
+    },
+    "135": {
+        "clue": "Penniless poet\u2019s strip",
+        "answer": "lath"
+    },
+    "136": {
+        "clue": "I say, why me, being sent back to a rogue school?",
+        "answer": "academy"
+    },
+    "137": {
+        "clue": "How old clothes are rubbish!",
+        "answer": "garbage"
+    },
+    "138": {
+        "clue": "No member of an ethnic minority in America is a stinger",
+        "answer": "wasp"
+    },
+    "139": {
+        "clue": "Mrs Sprat does talk",
+        "answer": "chewthefat"
+    },
+    "140": {
+        "clue": "Unreliable obsessive hiding cryptic code finally left",
+        "answer": "anecdotal"
+    },
+    "141": {
+        "clue": "Dealt with coffee from the East",
+        "answer": "faced"
+    },
+    "142": {
+        "clue": "Analyse pretty top and bottom",
+        "answer": "parse"
+    },
+    "143": {
+        "clue": "It\u2019s rot! Solve the problem!",
+        "answer": "sortitout"
+    },
+    "144": {
+        "clue": "One US city hospital with a misguided notion \u2026",
+        "answer": "sanantonio"
+    },
+    "145": {
+        "clue": "\u2026 to return gold in another\u2019s RMB",
+        "answer": "yuan"
+    },
+    "146": {
+        "clue": "Revered creature that surprises me",
+        "answer": "holycow"
+    },
+    "147": {
+        "clue": "Taken up in total, pot mixed with ecstasy",
+        "answer": "adopted"
+    },
+    "148": {
+        "clue": "Tea and a smile in distress",
+        "answer": "chagrin"
+    },
+    "149": {
+        "clue": "Spearhead stolen from tyrant\u2019s warehouse",
+        "answer": "depot"
+    },
+    "150": {
+        "clue": "Holy place thumbs-down for old toys",
+        "answer": "meccano"
+    },
+    "151": {
+        "clue": "Shaped primarily like a star",
+        "answer": "astral"
+    },
+    "152": {
+        "clue": "Pause quickly for something to eat",
+        "answer": "breakfast"
+    },
+    "153": {
+        "clue": "Rock managed in-house",
+        "answer": "granite"
+    },
+    "154": {
+        "clue": "No need to make fun of such desperate pleas for demise",
+        "answer": "selfparodying"
+    },
+    "155": {
+        "clue": "Bag up very cautious bird",
+        "answer": "cassowary"
+    },
+    "156": {
+        "clue": "Save peeled grocer\u2019s fruit",
+        "answer": "avocado"
+    },
+    "157": {
+        "clue": "The Sun, for one, may be a bit loud and non-U",
+        "answer": "tabloid"
+    },
+    "158": {
+        "clue": "Steal the show from further back",
+        "answer": "upstage"
+    },
+    "159": {
+        "clue": "Decoration for military march is cheap stuff as well",
+        "answer": "tattoo"
+    },
+    "160": {
+        "clue": "Settle clue for bark",
+        "answer": "payup"
+    },
+    "161": {
+        "clue": "Back to front objects without style",
+        "answer": "endways"
+    },
+    "162": {
+        "clue": "Very large opening for paint remover?",
+        "answer": "solvent"
+    },
+    "163": {
+        "clue": "Book some travelling sweep",
+        "answer": "besom"
+    },
+    "164": {
+        "clue": "Rhizome, flower tip as well, rejected by reserve",
+        "answer": "rootstock"
+    },
+    "165": {
+        "clue": "Made do with iron arrangement for a traditional scalar structure",
+        "answer": "dorianmode"
+    },
+    "166": {
+        "clue": "Cat gets over drugged state",
+        "answer": "puma"
+    },
+    "167": {
+        "clue": "Ulterior motive \u2013 as a solver might discern in stag",
+        "answer": "hiddenagenda"
+    },
+    "168": {
+        "clue": "Agitator reduced temperature at Moscow mint?",
+        "answer": "troublemaker"
+    },
+    "169": {
+        "clue": "African people incarcerated when borders removed",
+        "answer": "hutu"
+    },
+    "170": {
+        "clue": "Since start of Cup Final a \u2018new\u2019 heartless City\u2019s domination",
+        "answer": "ascendancy"
+    },
+    "171": {
+        "clue": "Marsupial as well as one canine housed in compartment",
+        "answer": "bandicoot"
+    },
+    "172": {
+        "clue": "Hock about right with this?",
+        "answer": "prawn"
+    },
+    "173": {
+        "clue": "\u2018Eggs Placed Over Paving\u2019 gains show prize",
+        "answer": "rosette"
+    },
+    "174": {
+        "clue": "New York suburbs crazy to change leader",
+        "answer": "yonkers"
+    },
+    "175": {
+        "clue": "English manufacturing source needs frame to make material",
+        "answer": "embody"
+    },
+    "176": {
+        "clue": "Artists raised in gloomy environment create Venus de Milo look?",
+        "answer": "disarm"
+    },
+    "177": {
+        "clue": "Playing marimba\u2019s OK, Peter Pan-style",
+        "answer": "armsakimbo"
+    },
+    "178": {
+        "clue": "Crush of people to see actor\u2019s bottom in dirty film",
+        "answer": "scrum"
+    },
+    "179": {
+        "clue": "Woods in an unsettled area of Wales",
+        "answer": "snowdonia"
+    },
+    "180": {
+        "clue": "Latin name of tree belt",
+        "answer": "lash"
+    },
+    "181": {
+        "clue": "Articulate rock band question tune\u2019s rendering",
+        "answer": "eloquent"
+    },
+    "182": {
+        "clue": "Chinese possibly follow a direction",
+        "answer": "takeaway"
+    },
+    "183": {
+        "clue": "One upgrade tentatively settled",
+        "answer": "agreedupon"
+    },
+    "184": {
+        "clue": "\u2018Add vinegar etc to fish\u2019 : Jamie\u2019s ultimate restaurant rule?",
+        "answer": "dresscode"
+    },
+    "185": {
+        "clue": "In court, as ballet dancers often are",
+        "answer": "atthebar"
+    },
+    "186": {
+        "clue": "What constitutes a list of arguments against storing canvas?",
+        "answer": "contents"
+    },
+    "187": {
+        "clue": "Bill Clinton famously claimed he didn\u2019t fit after being elected",
+        "answer": "inhale"
+    },
+    "188": {
+        "clue": "100-year gravitational source linked to inverted star constellation",
+        "answer": "cygnus"
+    },
+    "189": {
+        "clue": "Debut made by crossword clue solver?",
+        "answer": "entry"
+    },
+    "190": {
+        "clue": "Boost Chinese and UK measures of distance",
+        "answer": "lift"
+    },
+    "191": {
+        "clue": "Two foreign articles, container and urn, shortly in a tent?",
+        "answer": "undercanvas"
+    },
+    "192": {
+        "clue": "Set conundrums full of holes?",
+        "answer": "riddled"
+    },
+    "193": {
+        "clue": "Small fib about a rare, independent music maker?",
+        "answer": "salieri"
+    },
+    "194": {
+        "clue": "Brief statement from unspecified Tibetan, say, in hearing",
+        "answer": "summation"
+    },
+    "195": {
+        "clue": "Early signs of dew in very old trodden piece of turf",
+        "answer": "divot"
+    },
+    "196": {
+        "clue": "Armoured vehicle gets to fail completely",
+        "answer": "tank"
+    },
+    "197": {
+        "clue": "Notice AA employee at work in tall structure?",
+        "answer": "clocktower"
+    },
+    "198": {
+        "clue": "Cheat in part sadly lacking in quiet grey matter?",
+        "answer": "anthracite"
+    },
+    "199": {
+        "clue": "Allegation, one that\u2019s harboured by reticent type",
+        "answer": "claim"
+    }
+}

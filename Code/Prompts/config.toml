@@ -1,0 +1,20 @@
+name = "Prompts"
+
+[files]
+nyt_semantic_test = "./data/NYT/NYT_query.json"
+nyt_semantic_supp = "./data/NYT/NYT_support.json"
+cryp_semantic_test = "./data/Cryptonite/cryptonite_query.json"
+cryp_semantic_supp = "./data/Cryptonite/cryptonite_support.json"
+init_semantic_test = "./data/Init/init_query.json"
+init_semantic_supp = "./data/Init/init_support.json"
+cryp_semantic_cot = "./data/CoT_Solved_Examples.json"
+init_semantic_cot = "./data/CoT_Solved_Examples.json"
+counting_test = "./data/counting/counting_dataset.json"
+counting_supp = "./data/counting/counting_support.json"
+
+[prompt]
+system = "You are an expert crossword solver. Given a clue please provide the best possible answer succinctly. Do not produce extra text.\nThe number of characters in the answer is given in brackets and must be strictly adhered to. e.g. Clue: Daily update (4)// means the answer should have 4 characters."
+counting = "You are an expert at finding lengths of words. Given a word please provide the length succinctly. Do not produce any extra text barring the number indicating the length of the word."
+subtoken = "You are an expert at character manipulation. Given a word please decompose it into its constitutent characters. Do not produce any extra text barring the space seperated letters making the Word."
+cot_system = "You are an expert crossword solver. Given a clue please provide the best possible answer after thinking step by step."
+cot = "\n\nLet's think step by step.\nTypically a cryptic crossword has synonyms and wordplay indicators.\n"

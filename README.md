@@ -1,7 +1,7 @@
 # Language Models are Crossword Solvers
 
 This repository contains code and data required to reproduce results for the 
-paper titled--*"Language Models are Crossword Solvers"*--accepted to NAACL 2025 
+paper titled - *"Language Models are Crossword Solvers"*, accepted to NAACL 2025 
 (Main).
 
 ## Citation
@@ -18,7 +18,6 @@ If you find any material from this repository helpful, please cite our paper.
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2406.09043}, 
 }
-
 ```
 > [!NOTE] 
 > Update citation after proceedings are published.
