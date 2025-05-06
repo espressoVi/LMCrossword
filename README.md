@@ -9,18 +9,20 @@ paper titled - *"Language Models are Crossword Solvers"*, accepted to NAACL 2025
 If you find any material from this repository helpful, please cite our paper.
 
 ```
-@misc{saha2024languagemodelscrosswordsolvers,
-      title={Language Models are Crossword Solvers}, 
-      author={Soumadeep Saha and Sutanoya Chakraborty and Saptarshi Saha and Utpal Garain},
-      year={2024},
-      eprint={2406.09043},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2406.09043}, 
+@inproceedings{saha-etal-2025-language,
+    title = {Language Models are Crossword Solvers},
+    author = {Saha, Soumadeep  and Chakraborty, Sutanoya  and Saha, Saptarshi  and Garain, Utpal},
+    editor = {Chiruzzo, Luis  and Ritter, Alan  and Wang, Lu},
+    booktitle = {Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)},
+    month = apr,
+    year = {2025},
+    address = {Albuquerque, New Mexico},
+    publisher = {Association for Computational Linguistics},
+    url = {https://aclanthology.org/2025.naacl-long.104/},
+    pages = {2074--2090},
+    ISBN = {979-8-89176-189-6}
 }
 ```
-> [!NOTE] 
-> Update citation after proceedings are published.
 
 ## Usage.
 
