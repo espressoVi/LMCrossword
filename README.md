@@ -2,7 +2,8 @@
 
 This repository contains code and data required to reproduce results for the 
 paper titled - *"Language Models are Crossword Solvers"*, accepted to NAACL 2025 
-(Main).
+(main).  
+[PDF](https://aclanthology.org/2025.naacl-long.104/)
 
 ## Citation
 
